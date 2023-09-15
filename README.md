@@ -74,7 +74,7 @@ Analyzing Total Sales revenue by product category for **Merchant**  with respect
 
 ## Conclusion:
 
-The analysis indicate that the number of product ordered Amazon is more that that of Merchant which Amazon having a total reveue of 50.69 Million compare to 20.96 Million for Merchant for product that have been shipped to required location within duration of 3 month and the business method that generate almost the total revenue is B2C and not B2B.
+The analysis indicate that the number of product ordered for Amazon is more than that of Merchant which Amazon having a total revenue of 50.69 Million compare to 20.96 Million for Merchant for product that have been shipped to required location within duration of 3 month and the business method that generate almost the total revenue is B2C and not B2B.
 
 
 ## Recommendation:
