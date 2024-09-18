@@ -3,11 +3,11 @@
 ![](5461241.jpg)
 
 ## Introduction:
-  This is a Power BI project on E-Commerse Sales analysis in **india**. This dataset provides a comprehensive overview of e-commerce sales data from different channels        covering a variety of products. The project is to analyze and derive insight to answer crucial questions and drive decision making.
+#### This is a Power BI project on E-Commerse Sales analysis in **india**. This dataset provides a comprehensive overview of e-commerce sales data from different channels  covering a variety of products. The project is to analyze and derive insight to answer crucial questions and drive decision making.
 ---
 
 ## Data Source: 
-   The data is gotten from Kaggle 
+   #### The data is gotten from Kaggle 
 ---
 
 ## Problem Statement:
