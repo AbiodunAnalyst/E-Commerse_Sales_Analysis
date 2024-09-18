@@ -25,7 +25,7 @@ The following Power BI features were incorporated:
 - Filters
 
 ## Modelling
-Automatically derived relationships are adjusted to remove and replace unwanted relationship with the required
+#### Automatically derived relationships are adjusted to remove and replace unwanted relationship with the required
 ![](Analysis_5.JPG)
 ---
 There are 10-dimentional tables and 1 fact table. The dimention tables are all joined to the fact table
@@ -33,7 +33,7 @@ There are 10-dimentional tables and 1 fact table. The dimention tables are all j
 
 ## Visualization and Analysis:
 
-Analyzing Total Sales revenue by product category for **Amazon**  with respect to shipped product ordered
+#### Analyzing Total Sales revenue by product category for **Amazon**  with respect to shipped product ordered
 
 ![](Analysis_1.JPG)
 
